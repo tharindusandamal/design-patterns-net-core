@@ -1,0 +1,11 @@
+D:\Develoment\C sharp\.NET Core\DesignPaternsASP\DediatorPaternConsoleApp\bin\Debug\netcoreapp2.2\DediatorPaternConsoleApp.deps.json
+D:\Develoment\C sharp\.NET Core\DesignPaternsASP\DediatorPaternConsoleApp\bin\Debug\netcoreapp2.2\DediatorPaternConsoleApp.runtimeconfig.json
+D:\Develoment\C sharp\.NET Core\DesignPaternsASP\DediatorPaternConsoleApp\bin\Debug\netcoreapp2.2\DediatorPaternConsoleApp.runtimeconfig.dev.json
+D:\Develoment\C sharp\.NET Core\DesignPaternsASP\DediatorPaternConsoleApp\bin\Debug\netcoreapp2.2\DediatorPaternConsoleApp.dll
+D:\Develoment\C sharp\.NET Core\DesignPaternsASP\DediatorPaternConsoleApp\bin\Debug\netcoreapp2.2\DediatorPaternConsoleApp.pdb
+D:\Develoment\C sharp\.NET Core\DesignPaternsASP\DediatorPaternConsoleApp\obj\Debug\netcoreapp2.2\DediatorPaternConsoleApp.csproj.CoreCompileInputs.cache
+D:\Develoment\C sharp\.NET Core\DesignPaternsASP\DediatorPaternConsoleApp\obj\Debug\netcoreapp2.2\DediatorPaternConsoleApp.AssemblyInfoInputs.cache
+D:\Develoment\C sharp\.NET Core\DesignPaternsASP\DediatorPaternConsoleApp\obj\Debug\netcoreapp2.2\DediatorPaternConsoleApp.AssemblyInfo.cs
+D:\Develoment\C sharp\.NET Core\DesignPaternsASP\DediatorPaternConsoleApp\obj\Debug\netcoreapp2.2\DediatorPaternConsoleApp.dll
+D:\Develoment\C sharp\.NET Core\DesignPaternsASP\DediatorPaternConsoleApp\obj\Debug\netcoreapp2.2\DediatorPaternConsoleApp.pdb
+D:\Develoment\C sharp\.NET Core\DesignPaternsASP\DediatorPaternConsoleApp\obj\Debug\netcoreapp2.2\DediatorPaternConsoleApp.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\tharindu.ENADOC\source\repos\EntityFramworkDemoApp\StratergyPattern\bin\Debug\netcoreapp2.1\StratergyPattern.deps.json
+C:\Users\tharindu.ENADOC\source\repos\EntityFramworkDemoApp\StratergyPattern\bin\Debug\netcoreapp2.1\StratergyPattern.runtimeconfig.json
+C:\Users\tharindu.ENADOC\source\repos\EntityFramworkDemoApp\StratergyPattern\bin\Debug\netcoreapp2.1\StratergyPattern.runtimeconfig.dev.json
+C:\Users\tharindu.ENADOC\source\repos\EntityFramworkDemoApp\StratergyPattern\bin\Debug\netcoreapp2.1\StratergyPattern.dll
+C:\Users\tharindu.ENADOC\source\repos\EntityFramworkDemoApp\StratergyPattern\bin\Debug\netcoreapp2.1\StratergyPattern.pdb
+C:\Users\tharindu.ENADOC\source\repos\EntityFramworkDemoApp\StratergyPattern\obj\Debug\netcoreapp2.1\StratergyPattern.csprojAssemblyReference.cache
+C:\Users\tharindu.ENADOC\source\repos\EntityFramworkDemoApp\StratergyPattern\obj\Debug\netcoreapp2.1\StratergyPattern.csproj.CoreCompileInputs.cache
+C:\Users\tharindu.ENADOC\source\repos\EntityFramworkDemoApp\StratergyPattern\obj\Debug\netcoreapp2.1\StratergyPattern.AssemblyInfoInputs.cache
+C:\Users\tharindu.ENADOC\source\repos\EntityFramworkDemoApp\StratergyPattern\obj\Debug\netcoreapp2.1\StratergyPattern.AssemblyInfo.cs
+C:\Users\tharindu.ENADOC\source\repos\EntityFramworkDemoApp\StratergyPattern\obj\Debug\netcoreapp2.1\StratergyPattern.dll
+C:\Users\tharindu.ENADOC\source\repos\EntityFramworkDemoApp\StratergyPattern\obj\Debug\netcoreapp2.1\StratergyPattern.pdb
